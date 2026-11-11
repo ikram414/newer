@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mini Biography Page</title>
+</head>
+
+<body>
+
+    <h1>Mini Biography of Malala Yousafzai</h1>
+
+    <h2>About Malala</h2>
+
+    <p>
+        <strong>Malala Yousafzai</strong> is a Pakistani
+        education activist who was born on 12 July 1997.
+        She is famous for standing up for the right of
+        every girl to receive an education.
+    </p>
+
+    <h2>Her Early Life</h2>
+
+    <p>
+        Malala grew up in Pakistan, where she developed
+        a strong passion for learning. From a young age,
+        she believed that <em>every child deserves the
+        opportunity to go to school.</em>
+    </p>
+
+    <h2>Her Achievements</h2>
+
+    <p>
+        In 2014, Malala became the youngest person to
+        receive the <strong>Nobel Peace Prize</strong>.
+        She continues to campaign for girls' education
+        around the world.
+    </p>
+
+    <h2>Her Famous Quote</h2>
+
+    <blockquote>
+        "One child, one teacher, one book, and one pen
+        can change the world."
+    </blockquote>
+
+    <p>
+        This quote reminds us that <u>education is
+        powerful</u> and can make a difference in society.
+    </p>
+
+    <h2>Why I Admire Her</h2>
+
+    <p>
+        I admire Malala because she is brave, determined
+        and passionate about education. She inspires
+        young people to stand up for what they believe in.
+    </p>
+
+    <hr>
+
+    <p>
+        <small>Created by Class 7B | Mini Biography Project 2026</small>
+    </p>
+
+</body>
+</html>
